@@ -1,0 +1,10 @@
+setting (done)
+
+cmd palatte (done)
+
+compile, debug(c++) 
+
+test(python c++)
+
+(additional) virtual env
+

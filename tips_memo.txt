@@ -1,0 +1,11 @@
+/bin /usr/bin /usr/local/bin の使い分け
+https://linuc.org/study/knowledge/544/
+https://qiita.com/valzer0/items/67a4c8bf2b1be0fc825a
+https://atmarkit.itmedia.co.jp/ait/articles/0109/07/news002_2.html
+
+
+symbolic link について（ln -s コマンドについて）
+https://atmarkit.itmedia.co.jp/ait/articles/1605/30/news022.html
+
+cppのコンパイラの環境構築方法
+https://qiita.com/DaikiSuyama/items/09f5aa399aad37783146

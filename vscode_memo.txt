@@ -1,0 +1,8 @@
+python環境、デバッグ実行
+https://nyanblog2222.com/programming/python/553/
+
+autosaveの設定
+https://kamatalog.com/vscode-auto-save/
+
+c++ compile setting
+https://qiita.com/whim0321/items/ce7c1d8d203a21778a83
